@@ -1,0 +1,2 @@
+# Example dependency; replace with actual packages if needed
+langchain
